@@ -1,4 +1,4 @@
-.map-container {
-    height: 45% !important;
+#map {
+    height: 40% !important;
     width: 100%;
 }
